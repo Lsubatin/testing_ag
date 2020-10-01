@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_ENHO" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <TOOL>BADI_IMPL</TOOL>
+   <SHORTTEXT>testing</SHORTTEXT>
+   <SPOT_NAME>BUPA_OUTBOUND</SPOT_NAME>
+   <IMPL>
+    <ENH_BADI_IMPL_DATA>
+     <SPOT_NAME>BUPA_OUTBOUND</SPOT_NAME>
+     <BADI_NAME>BUPA_OUTBOUND</BADI_NAME>
+     <IMPL_NAME>ZIMPLTEST</IMPL_NAME>
+     <IMPL_CLASS>ZCL_TEST</IMPL_CLASS>
+     <ACTIVE>X</ACTIVE>
+     <IMPL_SHORTTEXT>Implementation: Business Partner Data Exchange (Outbound)</IMPL_SHORTTEXT>
+     <IMPL_SHORTTEXT_ID>42010A8E00581EDB80F015A889A9308E</IMPL_SHORTTEXT_ID>
+    </ENH_BADI_IMPL_DATA>
+   </IMPL>
+  </asx:values>
+ </asx:abap>
+</abapGit>
